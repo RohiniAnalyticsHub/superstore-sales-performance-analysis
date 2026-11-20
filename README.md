@@ -95,12 +95,11 @@ The project includes:
 
 ## Project Deliverables
 
-- Data Analysis Notebook
 - Cleaned Dataset (where shareable)
 - Statistical Analysis
 - Data Visualizations
 - Business Insights
-- Professional Project Report (PDF and DOCX)
+- Professional Project Report (PDF)
 
 ## Conclusion
 
